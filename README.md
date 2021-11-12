@@ -13,6 +13,8 @@
 
 ![3](https://user-images.githubusercontent.com/91433112/141398386-d00946fe-4aa5-44db-8ec5-843d17461211.png)
 
+![2](https://user-images.githubusercontent.com/91433112/141399285-96d08599-66bc-4ce4-9bb5-7a6dfcb0eba3.png)
+
 4) Создание пустых файлов с указанием имени;
 
 ![4](https://user-images.githubusercontent.com/91433112/141398388-6a650056-2489-4297-b6ef-6ffb39cf6daa.png)
