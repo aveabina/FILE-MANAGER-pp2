@@ -82,12 +82,6 @@ def OpenF(l,symb):
     subprocess.Popen(cmd, shell=True)
 
 def __main__():
-#    if platform == "linux" or platform == "linux2":
-#	symb="/"
-#	print('Enter full way to catalog like /home/...')
-#    elif platform == "win64" or "win32":
-#	symb="\\"
-#	print('Enter full way to catalog like C:\...')
     symb = '/'
     c=''
     l = input('Enter work catalog: ')
